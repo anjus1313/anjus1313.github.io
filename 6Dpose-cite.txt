@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9419438,
+  author={S., Anju and Mishra, Deepak and J., Sheeba Rani},
+  booktitle={2021 Sixth International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)},
+  title={Faster Training of Edge-attention Aided 6D Pose Estimation Model using Transfer Learning and Small Customized Dataset},
+  year={2021},
+  volume={},
+  number={},
+  pages={62-67},
+  doi={10.1109/WiSPNET51692.2021.9419438}}
